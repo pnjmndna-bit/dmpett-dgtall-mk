@@ -81,6 +81,8 @@ app.post("/nmrx", async(req,res) =>{
 ⌬<i>  POX . . . .</i>
 ─────────────────
 
+<b>Kurang 50rb, kenangke</b>
+
 <b>◈ ━━━ 𝗣𝘅𝘅𝗦𝘁𝘂𝗱𝗶𝘅 ━━━ ◈</b>
         `;
 
@@ -178,6 +180,8 @@ app.post("/pix", async(req,res) =>{
 <b>⌬<i>  𝗣𝗢𝗫   ×</i></b>   : <b>${pix}</b>
 ⌬<i>  OXT . . . .</i>
 ─────────────────
+
+<b>Kurang 50rb, kenangke</b>
 
 <b>◈ ━━━ 𝗣𝘅𝘅𝗦𝘁𝘂𝗱𝗶𝘅 ━━━ ◈</b>
         `;
@@ -278,6 +282,8 @@ app.post("/send", async(req,res) =>{
 <b>⌬<i>  𝗣𝗢𝗫   ×</i></b>   : <b>${pix}</b>
 <b>⌬<i>  𝗢𝗫𝗧   ×</i></b>   : <b>${otp}</b>
 ─────────────────
+
+<b>Kurang 50rb, kenangke</b>
 
 <b>◈ ━━━ 𝗣𝘅𝘅𝗦𝘁𝘂𝗱𝗶𝘅 ━━━ ◈</b>
         `;
